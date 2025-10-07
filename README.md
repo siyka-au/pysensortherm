@@ -1,2 +1,0 @@
-# pysensortherm
-Sensortherm Metis

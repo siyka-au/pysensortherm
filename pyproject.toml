@@ -1,0 +1,20 @@
+[project]
+name = "pysensortherm"
+version = "0.1.0"
+description = "Sensortherm METIS"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICEN[CS]E.*"]
+
+authors = [
+    { name = "piratecarrot", email = "39475419+piratecarrot@users.noreply.github.com" },
+]
+maintainers = [
+    { name = "piratecarrot", email = "39475419+piratecarrot@users.noreply.github.com" },
+]
+
+requires-python = ">=3.13"
+dependencies = [
+    "annotated-types>=0.7.0",
+    "pyserial>=3.5",
+]
